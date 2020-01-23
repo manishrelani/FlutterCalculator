@@ -9,7 +9,7 @@ class Calc extends StatefulWidget {
 
 class _CalcState extends State<Calc> {
   Color btncolor, bcolor;
-  String result = "result";
+  String result = "";
   String equ = "";
   double resultfont = 70.0;
   double equfont = 40.0;
